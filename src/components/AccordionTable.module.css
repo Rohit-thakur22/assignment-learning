@@ -1,0 +1,44 @@
+
+.accordion {
+  margin-bottom: 20px;
+  width: 100vh;
+  background-color: #026b6f !important;
+}
+
+.toggle {
+  background-color: #026b6f !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+  border-radius: 5px;
+  outline: none;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #026b6f;
+  padding: 8px;
+}
+
+.evenRow {
+  background-color: #ecfff9;
+}
+
+.oddRow {
+  background-color: #fff;
+}
+ 
+
+  
